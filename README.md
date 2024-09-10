@@ -1,2 +1,2 @@
 # Password-Generator
-Generating random password.
+Generating random password (easy/medium/hard) according to what the user want!
